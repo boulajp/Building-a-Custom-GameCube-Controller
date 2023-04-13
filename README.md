@@ -42,8 +42,7 @@ I printed the decals onto waterslide decal paper and sealed them with three coat
 
 <center><img src="picture5.JPEG"></center>
 
-<center><i>A photo of the printed decals</i></center>
-
+<center><i>A photo of the printed decals</i></center>\
 
 When applying the decals, I cut each one out, submerged it in water, applied micro-set onto the controller, positioned the decal, dried it with a rag, and applied micro-sol. This was a delicate process that took a few tries to get right. Some of the mistakes that I found were:
 - Not enough passes while drying the decals left a large visible borders on the decal edge
@@ -113,7 +112,7 @@ Thankfully, I encountered no significant issues during the picture button design
 
 To build this custom controller, I used my JP White GameCube controller as a donor. The process involved disassembling the donor controller and harvesting the necessary components described in the next section.
 
-### 3.1 Soldering Components
+### 3.2 Soldering Components
 
 I swapped the original motherboard for a PHOB motherboard, which incorporates hall-effect sensor sticks. This required soldering the following components to the new motherboard:
 - Controller cable
@@ -124,11 +123,11 @@ I swapped the original motherboard for a PHOB motherboard, which incorporates ha
 
 <center><img src="picture12.JPEG"></center>
 
-<center><i>A photo of the motherboard, magnets, and magnet holders before soldering</i></center>
+<center><i>A photo of the motherboard, magnets, and magnet holders before soldering</i></center>/
 
 <center><img src="picture20.JPEG"></center>
 
-<center><i>A photo of the motherboard after the soldering and assembly process</i></center>
+<center><i>A photo of the motherboard after the soldering and assembly process</i></center>/
 
 ### 3.3 Cleaning and Lubricating Stickboxes
 
