@@ -43,7 +43,7 @@ I printed the decals onto waterslide decal paper and sealed them with three coat
 <center><img src="picture5.JPEG"></center>
 
 <center><i>A photo of the printed decals</i></center>
-&nbsp;
+<br/><br/>
 
 When applying the decals, I cut each one out, submerged it in water, applied micro-set onto the controller, positioned the decal, dried it with a rag, and applied micro-sol. This was a delicate process that took a few tries to get right. Some of the mistakes that I found were:
 - Not enough passes while drying the decals left a large visible borders on the decal edge
@@ -120,12 +120,11 @@ I swapped the original motherboard for a PHOB motherboard, which incorporates ha
 - 2x Trigger potentiometers
 - 2x trigger paddles
 - C stick ribbon cable
-- Z button switch
 
 <center><img src="picture12.JPEG"></center>
 
 <center><i>A photo of the motherboard, magnets, and magnet holders before soldering</i></center>
-&nbsp;
+<br/><br/>
 
 <center><img src="picture20.JPEG"></center>
 
@@ -181,7 +180,11 @@ The donor controller I supplied has seen many games throughout its years, meanin
 
 The combination of the new stickbox spring along with the stickbox lubricant has made the controller feel super responsive.
 
-### 4.4 Out of Scope Considerations
+### 4.4 Mouseclick Z
+
+When ordering the PHOB motherboard, the board provider had an option to include a mouseclick style Z button switch, which I opted for. This switch came pre-soldered to the board, which can be see in the original PHOB motherboard photo above. This switch improves the feel of the Z button, giving it a more tactile, "mouseclick" feel.
+
+### 4.5 Out of Scope Considerations
 
 I considered adding shell notches and a paracorded cable to the custom controller but decided against them. While I was able to successfully add hybrid max-distance wavedash + firefox notchs with the correct coordinates (Y->0.33) on one of my other controller shells, they felt quite difficult to slot the stick into, which wasn't up to the quality I would have liked for this controller. Had I had additional shells to practice on, I would have continued learning to add notches, but it wasn't worth the of risk damaging the only white shell I had. 
 
