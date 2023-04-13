@@ -42,7 +42,8 @@ I printed the decals onto waterslide decal paper and sealed them with three coat
 
 <center><img src="picture5.JPEG"></center>
 
-<center><i>A photo of the printed decals</i></center>\
+<center><i>A photo of the printed decals</i></center>
+&nbsp;
 
 When applying the decals, I cut each one out, submerged it in water, applied micro-set onto the controller, positioned the decal, dried it with a rag, and applied micro-sol. This was a delicate process that took a few tries to get right. Some of the mistakes that I found were:
 - Not enough passes while drying the decals left a large visible borders on the decal edge
@@ -123,11 +124,12 @@ I swapped the original motherboard for a PHOB motherboard, which incorporates ha
 
 <center><img src="picture12.JPEG"></center>
 
-<center><i>A photo of the motherboard, magnets, and magnet holders before soldering</i></center>/
+<center><i>A photo of the motherboard, magnets, and magnet holders before soldering</i></center>
+&nbsp;
 
 <center><img src="picture20.JPEG"></center>
 
-<center><i>A photo of the motherboard after the soldering and assembly process</i></center>/
+<center><i>A photo of the motherboard after the soldering and assembly process</i></center>
 
 ### 3.3 Cleaning and Lubricating Stickboxes
 
