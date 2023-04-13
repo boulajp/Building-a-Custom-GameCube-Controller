@@ -44,6 +44,7 @@ I printed the decals onto waterslide decal paper and sealed them with three coat
 
 <center><i>A photo of the printed decals</i></center>
 
+
 When applying the decals, I cut each one out, submerged it in water, applied micro-set onto the controller, positioned the decal, dried it with a rag, and applied micro-sol. This was a delicate process that took a few tries to get right. Some of the mistakes that I found were:
 - Not enough passes while drying the decals left a large visible borders on the decal edge
 - Too many passes while drying the decals risked removing the clear coat and decal ink
