@@ -12,7 +12,7 @@ Although I no longer use Gamecube controllers (I switched over to a [B0XX](https
 
 ### 1.1 Choosing Tattoos and their Positioning
 
-The first step was to select a set of Lil Peep's tattoos to incorporate into the controller's design. I carefully picked tattoos that would not only look great on the controller but also represent his unique style. To get an accurate depication of the size and positioning of each deal, I used [https://static1.squarespace.com/static/5c3d9d5c12b13fffd47d23bf/t/5e686b1368b38d2983595372/1583901459995/FIRESCC_TrueSize_Template_v1.1.pdf](Fires Custom Controller Template), which is a 1:1 scale representation of the Gamecube controller's front plate. Using this in conjunction with Cricut Design space allowed me to find the perfect size and position of each decal prior to printing.
+The first step was to select a set of Lil Peep's tattoos to incorporate into the controller's design. I carefully picked tattoos that would not only look great on the controller but also represent his unique style. To get an accurate depication of the size and positioning of each deal, I used Fires' Custom Controller Template which is a 1:1 scale representation of the Gamecube controller's front plate. Using this in conjunction with Cricut Design space allowed me to find the perfect size and position of each decal prior to printing.
 
 <center><img src="picture3.JPEG"></center>
 
