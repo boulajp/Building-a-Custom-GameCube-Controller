@@ -2,39 +2,39 @@
 
 ## Introduction
 
-Although I no longer use Gamecube controllers (I switched over to a [B0XX](https://b0xx.com/) about a year ago), I've always been interested in the Gamecube controller modding scene. Shortly after my switch to the B0XX, I heard about the [PHOB project](https://github.com/PhobGCC/PhobGCC-doc), and I knew it was something that I'd love to try to build. One of my friends Michael decided to move away from the city, and since his old Gamecube controller was starting to show its age, I figured I could build him a controller as a going-away present. This controller is inspired by the late rapper Lil Peep (who Michael is a fan of), featuring artwork based on his tattoos. This document will cover journey of building my first GameCube controller from scratch. I will share the process of making the controller, including mistakes and lessons learned along the way. I'll also provide images to help illustrate my progress at each step.
+Although I no longer use Gamecube controllers (I switched over to a [B0XX](https://b0xx.com/) about a year ago), I've always been interested in the Gamecube controller modding scene. Shortly after my switch to the B0XX, I heard about the [PHOB project](https://github.com/PhobGCC/PhobGCC-doc), and I knew it was something that I'd love to try to build. One of my friends Michael decided to move away from the city, and since his old Gamecube controller was starting to show its age, I figured I could build him a new controller as a going-away present. This controller is inspired by the late rapper Lil Peep (who Michael is a fan of), featuring artwork based on his tattoos. This document will cover journey of building my first GameCube controller from scratch. I will share the process of making the controller, including mistakes and lessons learned along the way. I'll also provide images to help illustrate my progress at each step.
 
 <center><img src="picture1.JPEG"></center>
 
-<center><i>A photo of the completed custom controller</i></center>
+<center><i>A photo of the completed controller</i></center>
 
 ## Part 1: Controller Artwork
 
 ### 1.1 Choosing Tattoos and their Positioning
 
-The first step was to select a set of Lil Peep's tattoos to incorporate into the controller's design. I carefully picked tattoos that would not only look great on the controller but also represent his unique style.
+The first step was to select a set of Lil Peep's tattoos to incorporate into the controller's design. I carefully picked tattoos that would not only look great on the controller but also represent his unique style. To get an accurate depication of the size and positioning of each deal, I used [https://static1.squarespace.com/static/5c3d9d5c12b13fffd47d23bf/t/5e686b1368b38d2983595372/1583901459995/FIRESCC_TrueSize_Template_v1.1.pdf](Fires' Custom Controller Template), which is a 1:1 scale representation of the Gamecube controller's front plate. Using this in conjunction with Cricut Design space allowed me to find the perfect size and position of each decal prior to printing.
 
 <center><img src="picture3.JPEG"></center>
 
 <center><i>A collage of the chosen tattoos and their proposed positions on the controller</i></center>
 
-### 1.2 Removing the Nintendo Logo
+### 1.2 Preparing the Decals
 
-Since my controller design involved placing a decal in the center of the shell, I needed to remove the Nintendo logo before applying any decals. Initially, I considered painting the controller shell white because it would both remove the Nintendo logo and remove yellowing that my controller built up over the years.
-
-Fortuntately, by soaking and scrubbing the controller shell with hydrogen peroxide, I was able to restore the shell to look perfectly white again. This left me with only the need to remove the Nintendo logo / text to get a completly white shell. After some research, I learned that a magic eraser would do this with minimal abrasive damage to the surrounding area.
-
-<center><img src="picture2.JPEG"></center>
-
-<center><i>A photo of the shell with the Nintendo logo removed</i></center>
-
-### 1.3 Preparing the Decals
-
-To create the decals, I cropped the images I found earlier using Paint.NET. This was a good start, but it was difficult to find high-resolution images that would provide a good result when printed. For decals which comprised mostly of clean lines (such as the "Get Cake" text), I used [vectorizer.io](vectorizer.io) to vectorize them. Unfortunately, vectorizers didn't provide a very clean result for more detailed decals (such as the bats). To combat this, I used [imgupscaler.com](imgupscaler.com) to upscale the remaining images.
+To create the decals, I cropped the images I found earlier using Paint.NET. This was a good start, but it was difficult to find high-resolution images that would provide a good result when printed. For decals which comprised mostly of clean lines (such as the "Get Cake" text), I used [vectorizer.io](vectorizer.io) to vectorize them. Unfortunately, vectorizers don't provide a very clean result for more detailed decals (such as the bats). To combat this, I used an [imgupscaler.com](AI Upscaler) to upscale the remaining images.
 
 <center><img src="picture4.JPG"></center>
 
 <center><i>A screenshot of one of the decals prior to upscaling</i></center>
+
+### 1.3 Removing the Nintendo Logo
+
+Since my controller design involved placing a decal in the center of the shell, I needed to remove the Nintendo logo before applying any decals. Initially, I considered painting the controller shell white because it would both remove the Nintendo logo and remove yellowing that my controller built up over the years.
+
+Fortuntately, by soaking and scrubbing the controller shell with hydrogen peroxide, I was able to restore the shell to look perfectly white again without the need to paint. This left me with only the need to remove the Nintendo logo / text to get a completly white shell. After some research, I learned that a magic eraser would do this with minimal abrasive damage to the surrounding area.
+
+<center><img src="picture2.JPEG"></center>
+
+<center><i>A photo of the shell with the Nintendo logo removed</i></center>
 
 ### 1.4 Printing and Sealing Decals
 
@@ -53,7 +53,7 @@ When applying the decals, I cut each one out, submerged it in water, applied mic
 
 <center><img src="picture6.JPEG"  width=70% height=70%></center>
 
-<center><i>A series of photos showing the decal application process</i></center>
+<center><i>A photo showing the decal application process</i></center>
 
 ### 1.5 Clear Coat Application and Safety Precautions
 
@@ -67,7 +67,7 @@ Three coats of clear coat over the controller shell was enough to confidently se
 
 ### 1.6 Decal Sanding and Finishing
 
-Once the clear coat had cured, I noticed that there were still large visible edges over many of the decals. By sanding the decals with ~3000 grit sandpaper, I was able to level the surface and hide the decal borders. This was also a delicate process as sanding too deep would result in damage to the decals, while sanding too little would keep the borders visible. In hindsight, the optimal way to remove borders with minimal risk or damage to the finish would have been to alternate between applying clear coat, drying, and sanding multiple times.
+Once the clear coat had cured, I noticed that there were still large visible edges over many of the decals. By sanding the decals with ~3000 grit sandpaper, I was able to level the surface and hide the decal borders. This was also a delicate process as sanding too deep would result in damage to the decals, while sanding too little would keep the borders visible. In hindsight, the optimal way to remove borders with minimal risk or damage to the finish would have been to alternate between to apply an additional layer of clear coat after the sanding process.
 
 After sanding, the finish was no longer perfectly even throughout the controller. I was able to restore the clear coat's original finish by applying a light scratch remover along with an acrylic shine to the shell.
 
@@ -81,7 +81,7 @@ During the artwork process, I encountered a few challenges. Initially, I tried u
 
 <center><img src="picture9.JPEG"></center>
 
-<center><i>A comparison of the Cricut-cut decal and the hand-cut decal</i></center>
+<center><i>A photo displaying the damage caused when using a Cricut machine to cut the decals</i></center>
 
 ## Part 2: Custom Picture Buttons
 
@@ -101,17 +101,17 @@ Once the picture buttons arrived, I carefully installed them into the controller
 
 <center><img src="picture11.PNG"></center>
 
-<center><i>A photo of the controller with the custom picture buttons installed</i></center>
+<center><i>A photo of a controller with the custom picture buttons installed</i></center>
 
 ### 2.3 Mistakes and Lessons Learned
 
-Thankfully, I encountered no significant issues during the picture button design and installation process. This success highlights the importance of working with skilled vendors and planning the design carefully.
+Thankfully, I encountered no significant issues during the picture button design and installation process. The only issue I encountered was the lack of timeliness from the modder I worked with - it took nearly two months to actually have these buttons's made, and they arrived less than a week before I had to give the controller away! 
 
 ## Part 3: PHOB Motherboard Installation
 
 ### 3.1 Harvesting Parts from a Donor Controller
 
-To build this custom controller, I used my JP White GameCube controller as a donor. The process involved disassembling the donor controller and harvesting the necessary components described in the next section.
+To build this custom controller, I used my Japanese White GameCube controller as a donor, as it checked all the boxes I needed out of a donor - It had a white shell, Type-3 stickboxes, and (relatively) minimal wear to the components I needed to harvest. The process involved disassembling the donor controller and harvesting the necessary components, which are listed in the next section.
 
 ### 3.2 Soldering Components
 
@@ -132,7 +132,7 @@ I swapped the original motherboard for a PHOB motherboard, which incorporates ha
 
 ### 3.3 Cleaning and Lubricating Stickboxes
 
-To ensure smooth operation, I cleaned the stickboxes once with isopropyl alcohol and applied keyboard switch lubricant to ensure for smooth stickbox travel.
+To ensure smooth operation, I disassembled and cleaned the stickboxes with isopropyl alcohol before applying keyboard switch lubricant to ensure for smooth stickbox travel.
 
 <center><img src="picture13.JPEG"></center>
 
@@ -140,11 +140,11 @@ To ensure smooth operation, I cleaned the stickboxes once with isopropyl alcohol
 
 ### 3.2 Installing Magnets and Attaching Stickboxes to the PHOB Motherboard
 
-To prepare the stickboxes for the PHOB motherboard, I began by gluing the magnets to their 3D printed nylon magnet holders using Loctite super glue. Then, I used the same glue to attach the magnets and holders to the sides of the stickboxes. Once the glue had dryed, I secured the stickboxes to the PHOB motherboard.
+To prepare the stickboxes for the PHOB motherboard, I began by gluing the magnets to their 3D printed nylon magnet holders using Loctite super glue. Then, I glued the magnet holders to the pegs of the stickboxes. Once the glue had dryed, I secured the stickboxes to the PHOB motherboard.
 
 <center><img src="picture14.JPEG"></center>
 
-<center><i>A photo of the magnets glued to the magnet holders and stickboxes, and the stickboxes attached to the motherboard</i></center>
+<center><i>A photo of the stickboxes with the magnets attached to the stickbox pegs</i></center>
 
 ### 3.4 Mistakes and Lessons Learned
 
@@ -158,7 +158,7 @@ Initially, I encountered an issue when trying to close the controller. I needed 
 
 ### 4.1 Torx Screw Replacement
 
-To make future reassembly easier, I replaced all screws on the controller (shell, trigger bracket, stickbox) with torx screws.
+To make future reassembly easier, I replaced all screws on the controller (shell, trigger brackets, stickboxs) with torx screws.
 
 <center><img src="picture15.JPEG"></center>
 
@@ -176,7 +176,7 @@ Both triggers received aftermarket ["Rienne springs"](https://www.riennecustoms.
 
 ### 4.3 Stickbox Spring Replacement
 
-The donor controller I supplied has seen many games throughout its years, meaning that the stickboxes were quite worn in. To add longevity to the controller, I replaced the stickbox springs with fresh springs. I chose to use the newest revision stickboxes ([CFS8280-500020-00 E4 (T3)](https://gccontrollerlibrary.com/guides/gamecube-controller-internals-guide/)) as these are known to have the stiffest springs. While one of the PHOB's features are a snapback reduction signal filter, using a stiffer spring allows for natural snapback reduction with incurring the responsiveness reduction that this filter introduces.
+The donor controller I supplied has seen many games throughout its years, meaning that the stickboxes were quite worn in. To ensure for longevity of the controller, I replaced the stickbox springs with fresh springs. I chose to use the newest revision stickboxes ([CFS8280-500020-00 E4 (T3)](https://gccontrollerlibrary.com/guides/gamecube-controller-internals-guide/)) as these are known to have the stiffest springs. While one of the PHOB's features are a snapback reduction signal filter, using a stiffer spring allows for natural snapback reduction with incurring the responsiveness reduction that this filter introduces.
 
 The combination of the new stickbox spring along with the stickbox lubricant has made the controller feel super responsive.
 
@@ -186,7 +186,7 @@ When ordering the PHOB motherboard, the board provider had an option to include 
 
 ### 4.5 Out of Scope Considerations
 
-I considered adding shell notches and a paracorded cable to the custom controller but decided against them. While I was able to successfully add hybrid max-distance wavedash + firefox notchs with the correct coordinates (Y->0.33) on one of my other controller shells, they felt quite difficult to slot the stick into, which wasn't up to the quality I would have liked for this controller. Had I had additional shells to practice on, I would have continued learning to add notches, but it wasn't worth the of risk damaging the only white shell I had. 
+I considered adding shell notches to the controller but decided against them. While I was able to successfully add hybrid max-distance wavedash + firefox notchs with the correct coordinates (Y->0.33) on one of my other controller shells, they felt quite difficult to slot the stick into, which wasn't up to the quality I would have liked for this controller. Had I had additional shells to practice on, I would have continued learning to add notches, but it wasn't worth the of risk damaging the only white shell I had. 
 
 I also considered adding an aftermarket paracord cable to the controller, but ultimately decided against it because aftermarket gamecube cables have a higher failure rate than OEM cables.
 
