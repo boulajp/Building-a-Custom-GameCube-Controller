@@ -20,7 +20,7 @@ The first step was to select a set of Lil Peep's tattoos to incorporate into the
 
 ### 1.2 Preparing the Decals
 
-To create the decals, I cropped the images I found earlier using Paint.NET. This was a good start, but it was difficult to find high-resolution images that would provide a good result when printed. For decals which comprised mostly of clean lines (such as the "Get Cake" text), I used [vectorizer.io](vectorizer.io) to vectorize them. Unfortunately, vectorizers don't provide a very clean result for more detailed decals (such as the bats). To combat this, I used an [imgupscaler.com](AI Upscaler) to upscale the remaining images.
+To create the decals, I cropped the images I found earlier using Paint.NET. This was a good start, but it was difficult to find high-resolution images that would provide a good result when printed. For decals which comprised mostly of clean lines (such as the "Get Cake" text), I used [vectorizer.io](vectorizer.io) to vectorize them. Unfortunately, vectorizers don't provide a very clean result for more detailed decals (such as the bats). To combat this, I used an [AI Upscaler](imgupscaler.com) to upscale the remaining images.
 
 <center><img src="picture4.JPG"></center>
 
