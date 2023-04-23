@@ -176,7 +176,7 @@ Both triggers received aftermarket ["Rienne springs"](https://www.riennecustoms.
 
 ### 4.3 Stickbox Spring Replacement
 
-The donor controller I supplied has seen many games throughout its years, meaning that the stickboxes were quite worn in. To ensure for longevity of the controller, I replaced the stickbox springs with fresh springs. I chose to use the newest revision stickboxes ([CFS8280-500020-00 E4 (T3)](https://gccontrollerlibrary.com/guides/gamecube-controller-internals-guide/)) as these are known to have the stiffest springs. While one of the PHOB's features are a snapback reduction signal filter, using a stiffer spring allows for natural snapback reduction with incurring the responsiveness reduction that this filter introduces.
+The donor controller I supplied has seen many games throughout its years, meaning that the stickboxes were quite worn in. To ensure for longevity of the controller, I replaced the stickbox springs with fresh springs. I chose to use the newest revision stickboxes ([CFS8280-500020-00 E4 (T3)](https://gccontrollerlibrary.com/guides/gamecube-controller-internals-guide/)) as these are known to have the stiffest springs. While one of the PHOB's features is a snapback reduction signal filter, using a stiffer spring allows for natural snapback reduction without incurring the responsiveness reduction that this filter introduces.
 
 The combination of the new stickbox spring along with the stickbox lubricant has made the controller feel super responsive.
 
